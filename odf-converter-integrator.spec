@@ -7,6 +7,7 @@ License:	GPL v3
 Group:		Applications
 Source0:	http://katana.oooninja.com/f/software/%{name}-source-%{version}.tar.bz2
 URL:		http://katana.oooninja.com/w/odf-converter-integrator
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
