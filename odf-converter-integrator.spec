@@ -1,11 +1,12 @@
 Summary:	Convert Office 2007 (OOXML) files for OpenOffice.org
 Summary(pl.UTF-8):	Convert Office 2007 (OOXML) files for OpenOffice.org
 Name:		odf-converter-integrator
-Version:	0.1.5
+Version:	0.2.0
 Release:	1
 License:	GPL v3
 Group:		Applications
 Source0:	http://katana.oooninja.com/f/software/%{name}-source-%{version}.tar.bz2
+# Source0-md5:	26354ad5f4a2311343055e4748a41a02
 URL:		http://katana.oooninja.com/w/odf-converter-integrator
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
